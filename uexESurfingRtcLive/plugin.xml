@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<uexplugins>
+    <plugin name="uexESurfingRtcLive">
+        <method name="login"></method>
+        <method name="getLiveChannel"></method>
+        <method name="startPreview"></method>
+        <method name="startCast"></method>
+        <method name="pauseCast"></method>
+        <method name="stopCast"></method>
+         <method name="mute"></method>
+         <method name="switchCamera"></method>
+         <method name="rotateCamera"></method>
+         <method name="startPlay"></method>
+         <method name="pausePlay"></method>
+         <method name="stopPlay"></method>
+         <method name="getKBSent"></method>
+         <method name="getKBQueue"></method>
+         <method name="getKBitrate"></method>
+         <method name="getTimeCast"></method>
+         <method name="isConnected"></method>
+         <method name="getPlayMediaPosition"></method>
+         <method name="setPlayMediaPosition"></method>
+    </plugin>
+</uexplugins>
